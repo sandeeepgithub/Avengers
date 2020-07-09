@@ -1,0 +1,67 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body a:hover {
+    text-decoration: none;
+}
+
+.navbar {
+    background-color: #192a56;
+    text-transform: uppercase;
+}
+
+.navbar a:hover{
+    background-color: #001F3D;
+}
+.jumbotron {
+    padding: 20px 30px;
+    background-color:#192a56;
+    max-height: 500px;
+}
+
+.img-size {
+    max-width: 100%;
+    height: auto;
+    max-height: 250px;
+}
+
+.carousel {
+    background-color: #8b7572;
+}
+
+.bg-quotes {
+    background-color: #0091E7;
+}
+
+.bg-quotes img {
+    height: 100px;
+    width: 100px;
+    max-width: 100px;
+    float: left;
+}
+
+@media only screen and (min-width: 360px){
+    .col-margin {
+    margin-bottom: 50px;
+    background-color: white;
+    }
+}
+
+.shadow {
+    box-shadow: 3px 3px 5px 6px #ccc;
+}
+
+.quote-style {
+    color:#F8EFBA;
+}
+
+.footer-bg {
+    background-color:#8bf6f7;
+}
+
+.fa-heart {
+    color: red;
+}  
+
+
