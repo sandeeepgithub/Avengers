@@ -60,6 +60,14 @@ body a:hover {
     background-color:#8bf6f7;
 }
 
+.btn-info {
+    background-color: #D6293B;
+}
+
+.btn-info:hover {
+    background-color: #6a3c34  ;
+}
+
 .fa-heart {
     color: red;
 }  
