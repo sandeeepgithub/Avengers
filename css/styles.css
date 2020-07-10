@@ -14,7 +14,6 @@ body a:hover {
 .navbar a:hover{
     background-color: #001F3D;
 }
-
 .jumbotron {
     padding: 20px 30px;
     background-color:#192a56;
@@ -54,19 +53,11 @@ body a:hover {
 }
 
 .quote-style {
-    color:#F8EFBA;
+    color: #888;
 }
 
 .footer-bg {
     background-color:#8bf6f7;
-}
-
-.btn-info {
-    background-color: #D6293B;
-}
-
-.btn-info:hover {
-    background-color: #6a3c34  ;
 }
 
 .fa-heart {
